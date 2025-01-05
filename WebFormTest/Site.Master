@@ -1,0 +1,182 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="WebFormTest.SiteMaster" EnableViewState="true" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> - My ASP.NET Application</title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+
+    <webopt:BundleReference runat="server" Path="~/Content/css" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link rel="stylesheet" href="Content/bootstrap.min.css">
+</head>
+<body>
+    <form runat="server">
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <%--To learn more about bundling scripts in ScriptManager see https://go.microsoft.com/fwlink/?LinkID=301884 --%>
+                <%--Framework Scripts--%>
+                <asp:ScriptReference Name="MsAjaxBundle" />
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+                <%--Site Scripts--%>
+            </Scripts>
+        </asp:ScriptManager>
+
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" runat="server" href="~/">
+                    <img src="assets/img/logoWeb.png" alt="Lập trình web" width="40" height="40">
+                </a>
+                <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" title="Toggle navigation" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse d-sm-inline-flex justify-content-between" id="navbarNav">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item active">
+                            <a class="nav-link" aria-current="page" runat="server" href="~/">Trang chủ</a>
+
+                        </li>
+
+                        <!--Drop down-->
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Danh mục
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="TheThao.aspx">Thể thao</a></li>
+                                <li><a class="dropdown-item" href="HanhDong.aspx">Hành động</a></li>
+                                <li><a class="dropdown-item" href="ChienThuat.aspx">Chiến thuật</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" runat="server" href="GioHang.aspx">Giỏ hàng 
+                                <span class="badge bg-danger" id="cartCountBadge" runat="server" style="display: none">0</span>
+                            </a>
+                        </li>
+
+                        <li class="nav-item" id="lichsu"><a class="nav-link" runat="server" href="LichSuMua.aspx">Hóa đơn</a></li>
+
+                        <li class="nav-item" id="taikhoan"><a class="nav-link" runat="server" href="~/Contact">Liên hệ</a></li>
+
+                        <li class="nav-item" id="dangnhap" runat="server">
+                            <asp:HyperLink ID="lb_DangNhap" CssClass="nav-link" runat="server" NavigateUrl="~/DangNhap.aspx" Text="Đăng nhập"></asp:HyperLink>
+                        </li>
+
+
+
+                        <!-- Admin -->
+                        <li class="nav-item dropdown" id="adminDropdown" runat="server">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Admin
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="AdminGame.aspx">Quản lý game</a></li>
+                                <li><a class="dropdown-item" href="AdminTheLoai.aspx">Quản lý thể loại</a></li>
+                                <li><a class="dropdown-item" href="AdminTK.aspx">Quản lý user</a></li>
+                                <li><a class="dropdown-item" href="MaXacNhan.aspx">Mã xác nhận</a></li>
+                                <li><a class="dropdown-item" href="DanhSachUser.aspx">Danh sách user</a></li>
+                            </ul>
+                        </li>
+
+                        <!-- chào mừng (thông tin tài khoản) -->
+                        <li class="nav-item" id="chaomung" runat="server">
+                            <asp:HyperLink ID="lb_chao" class="nav-link" runat="server" NavigateUrl="ThongTinTK.aspx" Text=""></asp:HyperLink>
+
+                        </li>
+
+                        <!-- tab đăng xuất -->
+                        <li class="nav-item" id="dangxuat" runat="server">
+                            <asp:LinkButton ID="lb_dangxuat" class="nav-link" runat="server" NavigateUrl="~/" OnClick="DangXuat_Click" Text="Đăng xuất"></asp:LinkButton>
+                        </li>
+                    </ul>
+
+                    <!-- Thanh tìm kiếm -->
+                    <div class="d-flex" role="search">
+                        <input class="form-control me-2" type="search" id="searchInput" runat="server" placeholder="Search" aria-label="Search" />
+                        <asp:Button ID="btnSearch" runat="server" CssClass="btn btn-warning" Text="Search" OnClick="btnSearch_Click" />
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <div class="container body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+
+            <hr />
+
+            <%--<footer>
+                <p>- My ASP.NET Application </p>
+            </footer>--%>
+
+            <footer class="bg-dark text-light py-4 mt-5">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-3 mb-3">
+                            <h5 class="text-uppercase">Thông tin</h5>
+                            <ul class="list-unstyled">
+                                <li><a href="#" class="text-light">Về chúng tôi</a></li>
+                                <li><a href="#" class="text-light">Điều khoản</a></li>
+                                <li><a href="#" class="text-light">Quyền riêng tư</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-3 mb-3">
+                            <h5 class="text-uppercase">Giúp đỡ</h5>
+                            <ul class="list-unstyled">
+                                <li><a href="#" class="text-light">Dịch vụ khách hàng</a></li>
+                                <li><a href="#" class="text-light">Sản phẩm</a></li>
+                                <li><a href="#" class="text-light">Phần mềm</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-3 mb-3">
+                            <h5 class="text-uppercase">Giúp đỡ</h5>
+                            <ul class="list-unstyled">
+                                <li><a href="#" class="text-light">Dịch vụ khách hàng</a></li>
+                                <li><a href="#" class="text-light">Sản phẩm</a></li>
+                                <li><a href="#" class="text-light">Phần mềm</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-3 mb-3">
+                            <h5 class="text-uppercase">Mạng xã hội</h5>
+                            <ul class="list-unstyled">
+                                <li><a href="#" class="text-light">
+                                    <i class="bi bi-facebook"></i>Fanpage: Game giá rẻ
+                                </a></li>
+                                <li><a href="#" class="text-light">
+                                    <i class="bi bi-youtube"></i>YouTube: Tiệm game steam
+                                </a></li>
+                                <li><a href="#" class="text-light">
+                                    <i class="bi bi-twitter"></i>Tiktok: Tiệm game steam
+                                </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="text-center mt-3">
+                        <p>&copy; <%= DateTime.Now.Year %> Website bán game</p>
+                    </div>
+                </div>
+            </footer>
+
+        </div>
+
+    </form>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/Scripts/jquery-3.7.0.min.js") %>
+        <%: Scripts.Render("~/Scripts/bootstrap.bundle.min.js") %>
+    </asp:PlaceHolder>
+</body>
+</html>

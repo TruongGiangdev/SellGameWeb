@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{696FE5DC-CA53-46A9-9278-8EC2FD23F4FA}|WebFormTest\\WebFormTest.csproj|c:\\users\\giang\\downloads\\webtest\\webbangame\\webbangame\\webformtest\\dangnhap.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{696FE5DC-CA53-46A9-9278-8EC2FD23F4FA}|WebFormTest\\WebFormTest.csproj|solutionrelative:webformtest\\dangnhap.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696FE5DC-CA53-46A9-9278-8EC2FD23F4FA}|WebFormTest\\WebFormTest.csproj|C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\webformtest\\dangnhap.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696FE5DC-CA53-46A9-9278-8EC2FD23F4FA}|WebFormTest\\WebFormTest.csproj|solutionrelative:webformtest\\dangnhap.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696FE5DC-CA53-46A9-9278-8EC2FD23F4FA}|WebFormTest\\WebFormTest.csproj|C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\webformtest\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696FE5DC-CA53-46A9-9278-8EC2FD23F4FA}|WebFormTest\\WebFormTest.csproj|solutionrelative:webformtest\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696FE5DC-CA53-46A9-9278-8EC2FD23F4FA}|WebFormTest\\WebFormTest.csproj|C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\webformtest\\admintk.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696FE5DC-CA53-46A9-9278-8EC2FD23F4FA}|WebFormTest\\WebFormTest.csproj|solutionrelative:webformtest\\admintk.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696FE5DC-CA53-46A9-9278-8EC2FD23F4FA}|WebFormTest\\WebFormTest.csproj|C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\webformtest\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{696FE5DC-CA53-46A9-9278-8EC2FD23F4FA}|WebFormTest\\WebFormTest.csproj|solutionrelative:webformtest\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696FE5DC-CA53-46A9-9278-8EC2FD23F4FA}|WebFormTest\\WebFormTest.csproj|C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\webformtest\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{696FE5DC-CA53-46A9-9278-8EC2FD23F4FA}|WebFormTest\\WebFormTest.csproj|solutionrelative:webformtest\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696FE5DC-CA53-46A9-9278-8EC2FD23F4FA}|WebFormTest\\WebFormTest.csproj|C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\webformtest\\admintk.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{696FE5DC-CA53-46A9-9278-8EC2FD23F4FA}|WebFormTest\\WebFormTest.csproj|solutionrelative:webformtest\\admintk.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696FE5DC-CA53-46A9-9278-8EC2FD23F4FA}|WebFormTest\\WebFormTest.csproj|C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\webformtest\\dangki.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{696FE5DC-CA53-46A9-9278-8EC2FD23F4FA}|WebFormTest\\WebFormTest.csproj|solutionrelative:webformtest\\dangki.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696FE5DC-CA53-46A9-9278-8EC2FD23F4FA}|WebFormTest\\WebFormTest.csproj|C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\webformtest\\dangki.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696FE5DC-CA53-46A9-9278-8EC2FD23F4FA}|WebFormTest\\WebFormTest.csproj|solutionrelative:webformtest\\dangki.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696FE5DC-CA53-46A9-9278-8EC2FD23F4FA}|WebFormTest\\WebFormTest.csproj|C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\webformtest\\chitietsp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{696FE5DC-CA53-46A9-9278-8EC2FD23F4FA}|WebFormTest\\WebFormTest.csproj|solutionrelative:webformtest\\chitietsp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696FE5DC-CA53-46A9-9278-8EC2FD23F4FA}|WebFormTest\\WebFormTest.csproj|C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\webformtest\\admingame.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{696FE5DC-CA53-46A9-9278-8EC2FD23F4FA}|WebFormTest\\WebFormTest.csproj|solutionrelative:webformtest\\admingame.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696FE5DC-CA53-46A9-9278-8EC2FD23F4FA}|WebFormTest\\WebFormTest.csproj|C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\webformtest\\danhsachuser.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{696FE5DC-CA53-46A9-9278-8EC2FD23F4FA}|WebFormTest\\WebFormTest.csproj|solutionrelative:webformtest\\danhsachuser.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696FE5DC-CA53-46A9-9278-8EC2FD23F4FA}|WebFormTest\\WebFormTest.csproj|C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\webformtest\\danhsachuser.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696FE5DC-CA53-46A9-9278-8EC2FD23F4FA}|WebFormTest\\WebFormTest.csproj|solutionrelative:webformtest\\danhsachuser.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696FE5DC-CA53-46A9-9278-8EC2FD23F4FA}|WebFormTest\\WebFormTest.csproj|C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\webformtest\\giohang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696FE5DC-CA53-46A9-9278-8EC2FD23F4FA}|WebFormTest\\WebFormTest.csproj|solutionrelative:webformtest\\giohang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696FE5DC-CA53-46A9-9278-8EC2FD23F4FA}|WebFormTest\\WebFormTest.csproj|C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\webformtest\\giohang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{696FE5DC-CA53-46A9-9278-8EC2FD23F4FA}|WebFormTest\\WebFormTest.csproj|solutionrelative:webformtest\\giohang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dangki.aspx",
+              "DocumentMoniker": "C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\WebFormTest\\Dangki.aspx",
+              "RelativeDocumentMoniker": "WebFormTest\\Dangki.aspx",
+              "ToolTip": "C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\WebFormTest\\Dangki.aspx",
+              "RelativeToolTip": "WebFormTest\\Dangki.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-23T06:12:21.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChiTietSP.aspx",
+              "DocumentMoniker": "C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\WebFormTest\\ChiTietSP.aspx",
+              "RelativeDocumentMoniker": "WebFormTest\\ChiTietSP.aspx",
+              "ToolTip": "C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\WebFormTest\\ChiTietSP.aspx",
+              "RelativeToolTip": "WebFormTest\\ChiTietSP.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-22T13:58:00.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminTK.aspx",
+              "DocumentMoniker": "C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\WebFormTest\\AdminTK.aspx",
+              "RelativeDocumentMoniker": "WebFormTest\\AdminTK.aspx",
+              "ToolTip": "C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\WebFormTest\\AdminTK.aspx",
+              "RelativeToolTip": "WebFormTest\\AdminTK.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-25T14:59:19.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\WebFormTest\\Default.aspx",
+              "RelativeDocumentMoniker": "WebFormTest\\Default.aspx",
+              "ToolTip": "C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\WebFormTest\\Default.aspx",
+              "RelativeToolTip": "WebFormTest\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-22T13:57:49.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\WebFormTest\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "WebFormTest\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\WebFormTest\\Default.aspx.cs",
+              "RelativeToolTip": "WebFormTest\\Default.aspx.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:57:53.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DangNhap.aspx",
+              "DocumentMoniker": "C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\WebFormTest\\DangNhap.aspx",
+              "RelativeDocumentMoniker": "WebFormTest\\DangNhap.aspx",
+              "ToolTip": "C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\WebFormTest\\DangNhap.aspx",
+              "RelativeToolTip": "WebFormTest\\DangNhap.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-26T01:21:21.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DangNhap.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\WebFormTest\\DangNhap.aspx.cs",
+              "RelativeDocumentMoniker": "WebFormTest\\DangNhap.aspx.cs",
+              "ToolTip": "C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\WebFormTest\\DangNhap.aspx.cs",
+              "RelativeToolTip": "WebFormTest\\DangNhap.aspx.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAArwDkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:21:44.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminTK.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\WebFormTest\\AdminTK.aspx.cs",
+              "RelativeDocumentMoniker": "WebFormTest\\AdminTK.aspx.cs",
+              "ToolTip": "C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\WebFormTest\\AdminTK.aspx.cs",
+              "RelativeToolTip": "WebFormTest\\AdminTK.aspx.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwJsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:50:16.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dangki.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\WebFormTest\\Dangki.aspx.cs",
+              "RelativeDocumentMoniker": "WebFormTest\\Dangki.aspx.cs",
+              "ToolTip": "C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\WebFormTest\\Dangki.aspx.cs",
+              "RelativeToolTip": "WebFormTest\\Dangki.aspx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwBwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T06:12:23.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminGame.aspx",
+              "DocumentMoniker": "C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\WebFormTest\\AdminGame.aspx",
+              "RelativeDocumentMoniker": "WebFormTest\\AdminGame.aspx",
+              "ToolTip": "C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\WebFormTest\\AdminGame.aspx",
+              "RelativeToolTip": "WebFormTest\\AdminGame.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-23T06:26:03.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\WebFormTest\\Site.Master",
+              "RelativeDocumentMoniker": "WebFormTest\\Site.Master",
+              "ToolTip": "C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\WebFormTest\\Site.Master",
+              "RelativeToolTip": "WebFormTest\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-23T06:26:30.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DanhSachUser.aspx",
+              "DocumentMoniker": "C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\WebFormTest\\DanhSachUser.aspx",
+              "RelativeDocumentMoniker": "WebFormTest\\DanhSachUser.aspx",
+              "ToolTip": "C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\WebFormTest\\DanhSachUser.aspx",
+              "RelativeToolTip": "WebFormTest\\DanhSachUser.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-23T06:27:12.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DanhSachUser.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\WebFormTest\\DanhSachUser.aspx.cs",
+              "RelativeDocumentMoniker": "WebFormTest\\DanhSachUser.aspx.cs",
+              "ToolTip": "C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\WebFormTest\\DanhSachUser.aspx.cs",
+              "RelativeToolTip": "WebFormTest\\DanhSachUser.aspx.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T06:28:00.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GioHang.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\WebFormTest\\GioHang.aspx.cs",
+              "RelativeDocumentMoniker": "WebFormTest\\GioHang.aspx.cs",
+              "ToolTip": "C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\WebFormTest\\GioHang.aspx.cs",
+              "RelativeToolTip": "WebFormTest\\GioHang.aspx.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:53:46.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GioHang.aspx",
+              "DocumentMoniker": "C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\WebFormTest\\GioHang.aspx",
+              "RelativeDocumentMoniker": "WebFormTest\\GioHang.aspx",
+              "ToolTip": "C:\\Users\\giang\\Downloads\\WebTest\\WebBanGame\\WebBanGame\\WebFormTest\\GioHang.aspx",
+              "RelativeToolTip": "WebFormTest\\GioHang.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-22T12:53:38.523Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
